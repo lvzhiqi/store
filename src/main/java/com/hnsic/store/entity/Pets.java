@@ -14,6 +14,6 @@ public class Pets {
     private String petName;
     private Integer petAge;
     private String petAddress;
-    private double petPrice;
+    private Double petPrice;
     private Integer typeId;
 }

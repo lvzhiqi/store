@@ -14,7 +14,7 @@ public class Order {
     private Integer productId;
     private String productName;
     private String productAddress;
-    private double productPrice;
+    private Double productPrice;
     private String productType;
     private String userName;
     private String address;

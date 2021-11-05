@@ -13,6 +13,6 @@ public class Goods {
     private Integer goodId;
     private String goodName;
     private String goodAddress;
-    private double goodPrice;
+    private Double goodPrice;
     private Integer typeId;
 }
